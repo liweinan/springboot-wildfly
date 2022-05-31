@@ -15,5 +15,8 @@ Hello from Spring Boot⏎
 
 - https://docs.jboss.org/wildfly/plugins/maven/latest/
 
+```bash
+$ mvn wildfly:deploy 
+```
 
 
