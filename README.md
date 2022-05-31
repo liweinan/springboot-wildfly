@@ -11,3 +11,9 @@
 Hello from Spring Boot⏎ 
 ```
 
+## Deployment
+
+- https://docs.jboss.org/wildfly/plugins/maven/latest/
+
+
+
